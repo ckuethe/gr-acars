@@ -1,0 +1,19 @@
+# version for GNURadio 3.6
+
+# compilation: mkdir build && cd build
+# cmake .. && make && sudo make install
+# should automagically link with FFTW3
+
+# for manually linking FFTW3 to the library:
+#
+#cd build/lib
+#/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libgnuradio-acars.so -o libgnuradio-acars.so CMakeFiles/gnuradio-acars.dir/acars_decodeur.cc.o /usr/local/lib/libgruel.so /usr/local/lib/libgnuradio-core.so -Wl,-rpath,/usr/local/lib: -lfftw3
+#cd ../
+#make install
+
+# remember to define locales or gr-acars will generate some strange exception
+# export LC_ALL="C"
+
+# for running the example, use the .grc file provided as example, which tunes
+# the radio to 131.725 MHz (EU) or 136.800 MHz (NAm) and AM-demodulates the
+# signal to be decoded for the digital messages

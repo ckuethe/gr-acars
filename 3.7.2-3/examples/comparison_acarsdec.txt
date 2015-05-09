@@ -1,0 +1,159 @@
+Wed May 14 16:07:52 2014
+2b 2a 16 16 01 52 2e 4f 4f 2d 53 53 45 15 31 32 31 02 4d 38 36 41 53 4e 30 31 47 56 45 42 42 52 2c 4c 53 47 47 2c 31 34 4d 41 59 31 34 2c 31 36 30 38 2c 31 36 33 38 32 34 0d 0a 4e 20 34 38 2e 31 39 37 2c 45 20 20 36 2e 36 31 33 2c 32 36 39 39 32 0d 0a 4c 53 47 47 30 35 03 07 0e 7f 
++*R.OO-SSE121M86ASN01GVEBBR,LSGG,14MAY14,1608,163824
+N 48.197,E  6.613,26992
+LSGG05
+
+Aircraft=.OO-SSE
+STX
+Seq. No=4d 38 36 41 M86A
+Flight=SN01GV
+EBBR,LSGG,14MAY14,1608,163824N 48.197,E  6.613,26992LSGG05ETX
+
+Wed May 14 16:08:40 2014
+2b 2a 16 16 01 47 2e 48 42 2d 4a 48 41 15 51 30 33 02 53 33 37 41 4c 58 30 30 31 38 03 1e 41 7f 33 55 6d 15 57 6e 52 2e 77 02 73 07 2a 
++*G.HB-JHAQ03S37ALX0018A3UmWnR.ws*
+
+Aircraft=.HB-JHA
+STX
+Seq. No=53 33 37 41 S37A
+Flight=LX0018
+ETX
+
+Wed May 14 16:08:43 2014
+2b 2a 16 16 01 47 2e 48 42 2d 4a 48 41 59 5f 7f 34 02 53 33 38 41 4c 58 30 30 31 38 03 59 4f 7f 33 
++*G.HB-JHAY_4S38ALX0018YO3
+
+Aircraft=.HB-JHA
+STX
+Seq. No=53 33 38 41 S38A
+Flight=LX0018
+ETX
+
+Wed May 14 16:08:49 2014
+2b 2a 16 16 01 52 2e 48 42 2d 4a 48 41 15 51 30 36 02 53 34 30 41 4c 58 30 30 31 38 03 0d 7b 7f 33 
+{3R.HB-JHAQ06S40ALX0018
+
+Aircraft=.HB-JHA
+STX
+Seq. No=53 34 30 41 S40A
+Flight=LX0018
+ETX
+
+Wed May 14 16:09:33 2014
+63 55 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 2b 2a 16 16 01 32 2e 47 2d 44 4f 43 57 15 51 30 34 02 53 31 39 41 42 41 32 36 32 35 03 6c 00 7f 20 4c 
+cU+*2.G-DOCWQ04S19ABA2625l L
+
+Wed May 14 16:10:02 2014
+2b 2a 16 16 01 52 2e 47 2d 44 4f 43 57 15 31 30 35 02 4d 32 30 41 42 41 32 36 32 35 46 54 58 30 31 2e 4c 4f 4e 51 5a 42 41 2e 4c 47 57 4f 52 42 41 2e 4c 47 57 4b 44 42 41 0d 0a 4d 41 4e 59 20 54 48 41 4e 4b 53 20 34 20 54 45 4c 20 52 45 50 4c 59 2e 0d 0a 4d 53 47 20 46 4d 20 4e 43 45 20 54 52 43 20 54 4f 20 43 41 4c 4c 0d 0a 4c 4f 4e 44 4f 4e 2e 20 54 52 49 45 44 20 34 20 44 49 46 46 0d 0a 44 45 50 41 52 54 4d 45 4e 54 53 20 53 54 49 4c 4c 20 55 4e 41 57 41 52 0d 0a 4f 46 20 4f 52 49 47 49 4e 20 41 4e 44 20 4e 41 54 55 52 45 20 4f 46 0d 0a 43 41 4c 4c 2e 20 41 54 54 45 4d 50 54 49 4e 47 20 54 4f 20 52 53 4c 56 0d 0a 43 41 55 53 45 44 20 31 35 20 4d 49 4e 20 44 45 4c 41 59 2e 03 73 14 7f 20 54 
++*R.G-DOCW105M20ABA2625FTX01.LONQZBA.LGWORBA.LGWKDBA
+MANY THANKS 4 TEL REPLY.
+MSG FM NCE TRC TO CALL
+LONDON. TRIED 4 DIFF
+DEPARTMENTS STILL UNAWAR
+OF ORIGIN AND NATURE OF
+CALL. ATTEMPTING TO RSLV
+CAUSED 15 MIN DELAY.s T
+
+Aircraft=.G-DOCW
+STX
+Seq. No=4d 32 30 41 M20A
+Flight=BA2625
+FTX01.LONQZBA.LGWORBA.LGWKDBAMANY THANKS 4 TEL REPLY.MSG FM NCE TRC TO CALLLONDON. TRIED 4 DIFFDEPARTMENTS STILL UNAWAROF ORIGIN AND NATURE OFCALL. ATTEMPTING TO RSLVCAUSED 15 MIN DELAY.ETX
+
+Wed May 14 16:10:16 2014
+4b 55 7d 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 7f 2b 2a 16 16 01 52 2e 47 2d 44 4f 43 57 15 31 35 36 02 4d 32 31 41 42 41 32 36 32 35 46 53 54 30 31 4c 46 4d 4e 45 47 4b 4b 4e 34 36 38 38 39 35 45 30 30 34 36 34 32 35 33 36 31 30 30 34 34 30 30 34 33 4d 30 35 31 43 30 35 35 33 32 37 33 33 36 33 33 36 33 37 36 4f 41 31 37 30 38 31 36 31 31 03 29 71 7f 4f 44 
+KU}+*R.G-DOCW156M21ABA2625FST01LFMNEGKKN468895E004642536100440043M051C055327336336376OA17081611)qOD
+aU
+Wed May 14 16:10:30 2014
+2b 2a 16 16 01 52 2e 30 37 2a 42 47 4e 15 48 31 58 7d 3b 4c 4e 3e 34 33 4f 4a 49 33 5c 3b 45 42 28 50 4f 45 
++*R.07*BGNH1X};LN>43OJI3\;EB(POE
+
+Aircraft=.07*BGN
+Seq. No=3b 4c 4e 3e ;LN>
+Flight=43OJI3
+\;EB(PO
+
+
+[#1 (-37/0) 14/05/2014 16:07:55 ----------------------------------------------------------
+Aircraft reg: .OO-SSE Flight id: SN01GV
+Mode: R Msg. label: 12
+Block id: 1 Ack: !
+Msg. no: M86A
+Message :
+EBBR,LSGG,14MAY14,1608,163824
+N 48.197,E  6.613,26992
+LSGG05
+
+[#2 (-35/0) 14/05/2014 16:08:43 ----------------------------------------------------------
+Aircraft reg: .HB-JHA Flight id: LX0018
+Mode: G Msg. label: Q0
+Block id: 3 Ack: !
+Msg. no: S37A
+Message :
+
+
+[#2 (-36/0) 14/05/2014 16:08:46 ----------------------------------------------------------
+Aircraft reg: .HB-JHA Flight id: LX0018
+Mode: G Msg. label: _d
+Block id: 4 Ack: Y
+Msg. no: S38A
+Message :
+
+
+[#1 (-35/0) 14/05/2014 16:08:46 ----------------------------------------------------------
+Aircraft reg: .HB-JHA Flight id: LX0018
+Mode: 2 Msg. label: Q0
+Block id: 5 Ack: !
+Msg. no: S39A
+Message :
+
+
+[#1 (-35/0) 14/05/2014 16:08:52 ----------------------------------------------------------
+Aircraft reg: .HB-JHA Flight id: LX0018
+Mode: R Msg. label: Q0
+Block id: 6 Ack: !
+Msg. no: S40A
+Message :
+
+
+[#1 (-34/0) 14/05/2014 16:09:36 ----------------------------------------------------------
+Aircraft reg: .G-DOCW Flight id: BA2625
+Mode: 2 Msg. label: Q0
+Block id: 4 Ack: !
+Msg. no: S19A
+Message :
+
+
+[#1 (-35/0) 14/05/2014 16:10:04 ----------------------------------------------------------
+Aircraft reg: .G-DOCW Flight id: BA2625
+Mode: R Msg. label: 10
+Block id: 5 Ack: !
+Msg. no: M20A
+Message :
+FTX01.LONQZBA.LGWORBA.LGWKDBA
+MANY THANKS 4 TEL REPLY.
+MSG FM NCE TRC TO CALL
+LONDON. TRIED 4 DIFF
+DEPARTMENTS STILL UNAWAR
+OF ORIGIN AND NATURE OF
+CALL. ATTEMPTING TO RSLV
+CAUSED 15 MIN DELAY.
+
+[#1 (-38/0) 14/05/2014 16:10:19 ----------------------------------------------------------
+Aircraft reg: .G-DOCW Flight id: BA2625
+Mode: R Msg. label: 15
+Block id: 6 Ack: !
+Msg. no: M21A
+Message :
+FST01LFMNEGKKN468895E004642536100440043M051C055327336336376OA17081611
+
+[#1 (-41/0) 14/05/2014 16:10:32 ----------------------------------------------------------
+Aircraft reg: .PH-BGN Flight id: KL056L
+Mode: R Msg. label: H1
+Block id: 8 Ack: !
+Msg. no: D31A
+Message :
+#DFB(POS-KLM56L  -4825N00656E/161110 F390
+RMK/FUEL   3.6 M0.77)
+

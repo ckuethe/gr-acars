@@ -1,0 +1,14 @@
+launch "fft_search" in GNU/Octave: searches for an ACARS message
+in a 48 kS/s, 1 byte/sample, WAV file by calling fft_decod.m.
+
+The .c file is a translation of the GNU/Octave (or Matlab) file to C
+which was then converted to GRC. For testing: 
+
+./fft_decod 120708_besac.wav 550001 700000 150
+
+should generate
+
+a=12618.699511 b=17937
+2b 2a 16 16 01 32 2e 48 42 2d 4a 5a 54 15 48 32 2d 02 4d 31 30 44 44 53 33 39 41 5a 30 47 20 20 20 20 4e 34 37 33 30 37 45 30 30 36 30 36 37 32 38 35 34 4d 33 38 30 32 34 30 30 34 39 47 20 20 20 20 4e 34 37 33 31 37 45 30 30 36 30 30 31 32 39 38 36 4d 34 31 30 32 34 30 30 35 30 47 20 20 20 20 4e 34 37 33 33 33 45 30 30 35 4a 4c 47 4c 4f 48 4c 72 54 4c 4d 4d 4c 46 4f 4a 4e 38 5f 5f 5f 5f 31 4b 48 4c 4a 32 45 50 4f 4a 4b 48 49 4c 2e 35 30 31 34 35 35 32 34 40 4f 25 30 47 5f 5f 5f 5f 31 4b 30 33 38 31 45 30 30 4a 4b 4e 47 4c 4d 4c 5b 32 4b 48 5a 3d 43 2b 30 35 4f 38 1f 20 20 20 4e 34 48 2b 41 4a 39 4f 4f 35 33 26 34 4c 43 31 32 4d 54 26 32 22 22 38 30 3a 2a 38 5f 1f 20 20 4e 24 34 44 4b 37 45 40 5f 5a 33 31 17 4a 40 7f 
++*2.HB-JZTH2-M10DDS39AZ0G    N47307E0060672854M380240049G    N47317E0060012986M410240050G    N47333E005JLGLOHLrTLMMLFOJN8____1KHLJ2EPOJKHIL.50145524@O%0G____1K0381E00JKNGLML[2KHZ=C+05O8   N4H+AJ9OO53&4LC12MT&2""80:*8_  N$4DK7E@_Z31J@
+

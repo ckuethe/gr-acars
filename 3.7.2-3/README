@@ -1,0 +1,8 @@
+version for GNURadio-3.7
+
+compilation: mkdir build && cd build
+cmake .. && make && sudo make install
+
+# for running the example, use the .grc file provided as example, which tunes
+# the radio to 131.725 MHz (EU) or 136.800 MHz (NAm) and AM-demodulates the
+# signal to be decoded for the digital messages
